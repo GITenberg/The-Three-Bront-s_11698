@@ -1,0 +1,31 @@
+_repo: The-Three-Bront-s_11698
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, May
+    alias: Sinclair, Mary Amelia St. Clair
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '3004'
+    url: http://www.gutenberg.org/2009/agents/3004
+    wikipedia: http://en.wikipedia.org/wiki/May_Sinclair
+description: This study of the Brontë sisters, published in 1912, showcases Sinclair's
+  sometimes acerbic critical acumen. As the author herself notes, because all the
+  best things about the Brontës have been said already, I have had to fall back on
+  the humble day-labour of clearing away some of the rubbish that has gathered around
+  them.
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11698'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Brontë family'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+- GITenberg
+title: The Three Brontës
+url: http://www.gutenberg.org/ebooks/11698
