@@ -1,5 +1,8 @@
 _repo: The-Three-Bront-s_11698
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, May
@@ -14,6 +17,8 @@ description: This study of the Brontë sisters, published in 1912, showcases Sin
   best things about the Brontës have been said already, I have had to fall back on
   the humble day-labour of clearing away some of the rubbish that has gathered around
   them.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11698#The-Three-Bront-s
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
